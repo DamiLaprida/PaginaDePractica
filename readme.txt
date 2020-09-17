@@ -1,4 +1,4 @@
 Tomate
 Lechuga
-Pepino
+arroz
 Remolacha
